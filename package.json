@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Vam-c/backend_for_YourEngineerINC#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
   }
 }
