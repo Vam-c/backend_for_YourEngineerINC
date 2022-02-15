@@ -1,0 +1,22 @@
+{
+  "name": "backend_for_yourengineerinc",
+  "version": "1.0.0",
+  "description": "APIs to perform CRUD operations for user registration and then fetching their data.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vam-c/backend_for_YourEngineerINC.git"
+  },
+  "author": "Vamsee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vam-c/backend_for_YourEngineerINC/issues"
+  },
+  "homepage": "https://github.com/Vam-c/backend_for_YourEngineerINC#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
